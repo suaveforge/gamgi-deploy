@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamgi.suaveforge.com/sitemap.xml
